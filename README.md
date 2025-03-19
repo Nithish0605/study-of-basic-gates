@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Name: NITHISH S
+### Reg no: 212224240105
+### Exp 1: study-of-basic-gates
 
 **AIM:** 
 
@@ -65,15 +67,18 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+![Screenshot 2025-03-18 113350](https://github.com/user-attachments/assets/53593f5c-8bda-4159-87ea-f5f8916fbb11)
  
 **Logic symbol & Truthtable**
 
+![WhatsApp Image 2025-03-19 at 08 17 00_4b180335](https://github.com/user-attachments/assets/b373021b-2036-4cd5-a961-627fcfc9fcb7)
+![Screenshot 2025-03-18 113727](https://github.com/user-attachments/assets/3afe53af-4293-44b5-b9b5-029e1129151a)
+
 **RTL realization Output:** 
+![Screenshot 2025-03-18 114434](https://github.com/user-attachments/assets/32b921d9-b314-4f66-a86d-c9a16546a39f)
 
 **RTL**
 
 **Result:**
-
+Hence the truth table of logic gates in Quartus II using Verilog programming is studied and verified
 
