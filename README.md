@@ -1,6 +1,8 @@
-### Name: NITHISH S
-### Reg no: 212224240105
-### Exp 1: study-of-basic-gates
+## Name: NITHISH S
+
+## Reg no: 212224240105
+
+# Exp 1: study-of-basic-gates
 
 **AIM:** 
 
